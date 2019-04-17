@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300312958460",
+    "firebase_url": "https://mp9-pablo-romo.firebaseio.com",
+    "project_id": "mp9-pablo-romo",
+    "storage_bucket": "mp9-pablo-romo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300312958460:android:045997f1c65ccd1b",
+        "android_client_info": {
+          "package_name": "com.example.mp9_pablo_romo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300312958460-38hak7836pmoq213hnv71iosvbpe0e3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftVYcM9kh4uIIRgIV1rz0dK4fkSj_WUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300312958460-38hak7836pmoq213hnv71iosvbpe0e3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
